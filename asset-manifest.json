@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mine-Sweeper-wp1101-hack1/static/css/main.b90533b3.chunk.css",
+    "main.js": "/Mine-Sweeper-wp1101-hack1/static/js/main.880701c8.chunk.js",
+    "main.js.map": "/Mine-Sweeper-wp1101-hack1/static/js/main.880701c8.chunk.js.map",
+    "runtime-main.js": "/Mine-Sweeper-wp1101-hack1/static/js/runtime-main.6ec60246.js",
+    "runtime-main.js.map": "/Mine-Sweeper-wp1101-hack1/static/js/runtime-main.6ec60246.js.map",
+    "static/js/2.883e78aa.chunk.js": "/Mine-Sweeper-wp1101-hack1/static/js/2.883e78aa.chunk.js",
+    "static/js/2.883e78aa.chunk.js.map": "/Mine-Sweeper-wp1101-hack1/static/js/2.883e78aa.chunk.js.map",
+    "index.html": "/Mine-Sweeper-wp1101-hack1/index.html",
+    "static/css/main.b90533b3.chunk.css.map": "/Mine-Sweeper-wp1101-hack1/static/css/main.b90533b3.chunk.css.map",
+    "static/js/2.883e78aa.chunk.js.LICENSE.txt": "/Mine-Sweeper-wp1101-hack1/static/js/2.883e78aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ec60246.js",
+    "static/js/2.883e78aa.chunk.js",
+    "static/css/main.b90533b3.chunk.css",
+    "static/js/main.880701c8.chunk.js"
+  ]
+}
